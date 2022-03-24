@@ -1,0 +1,18 @@
+[submodule "maria"]
+	path = maria
+	url = https://github.com/MariaBloom2/Parametric-Lamp
+[submodule "dami"]
+	path = dami
+	url = https://github.com/DamiAKinniyi/Portraits_Draft
+[submodule "charbel"]
+	path = charbel
+	url = https://github.com/charbelllll/bodytrcture-10
+[submodule "jumana"]
+	path = jumana
+	url = https://github.com/JumanaHamdani/pavilion
+[submodule "pablo"]
+	path = pablo
+	url = https://github.com/pabloantunamolina/bimsc21-datamgmt-FINAL-spatialgreenhouse
+[submodule "alex"]
+	path = alex
+	url = https://github.com/Krilin39/Data-Management-final-submission
